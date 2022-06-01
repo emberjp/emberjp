@@ -4,7 +4,7 @@ My name is Emerson Pereira, a full stack developer from Brazil with a passion fo
 
 Ok, JavaScript and TypeScript are fine, I am full stack after all and must code with them and though I have a preference for Python, I try to get better at both JS and Python, as well as getting in touch with other langagues -- Go and Java are on my radar right now.
 
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-berg-jorge-pereira/)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-berg-jorge-pereira/?target=_blank)
 
 <!--
 **emberjp/emberjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
