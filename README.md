@@ -1,7 +1,7 @@
 ### Hi there! 👋
 #### I am Emerson Pereira
 
-A **Full Stack Developer** from Brazil with a passion for programming. I started with Applesoft BASIC back in 1986 (I just realize how old I am on mommments like that!), got a little bit of Turbo Pascal and C and as a developer learned JavaScript, TypeScript and Python.
+A **Full Stack Developer** from Brazil with a passion for programming. I started with Applesoft BASIC back in 1986 (I just realize how old I am on momments like that!), got a little bit of Turbo Pascal and C at college and as a developer learned JavaScript, TypeScript and Python.
 
 I am trying to get better at both JS and Python, as well as getting in touch with other langagues -- Go and Java are on my radar right now.
 
