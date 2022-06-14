@@ -5,6 +5,12 @@ A **Full Stack Developer** from Brazil with a passion for programming. I started
 
 I am trying to get better at both JS and Python, as well as getting in touch with other langagues -- Go and Java are on my radar right now.
 
+<div>
+<a href="https://github.com/emberjp">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emberjp&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emberjp&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
+  
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-berg-jorge-pereira/)
 
 <!--
