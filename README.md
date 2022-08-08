@@ -1,8 +1,6 @@
 ### Hi there! 👋
 #### I am Emerson Pereira
 
-A **Full Stack Developer** from Brazil with a passion for programming. I started with Applesoft BASIC back in 1986 (I just realize how old I am on moments like that!), got a little bit of Turbo Pascal and C at college and as a developer learned JavaScript, TypeScript and Python.
-
 <div id="badges" align="center">
   <a rel="noopener" href="https://www.linkedin.com/in/emerson-berg-jorge-pereira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,6 +10,10 @@ A **Full Stack Developer** from Brazil with a passion for programming. I started
   </a>
 </div>
 
+A **Full Stack Developer** from Brazil with a passion for programming. I started with Applesoft BASIC back in 1986 (I just realize how old I am on moments like that!), got a little bit of Turbo Pascal and C at college and as a developer learned JavaScript, TypeScript and Python.
+
+<br>
+
 <div align=center>
 <a href="https://github.com/emberjp">
 <img width=40% src="https://github-readme-stats.vercel.app/api?username=emberjp&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -20,6 +22,8 @@ A **Full Stack Developer** from Brazil with a passion for programming. I started
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=emberjp&layout=compact&langs_count=7"/>
 </div>
 
+<br>
+  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp; 
